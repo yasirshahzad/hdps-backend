@@ -10,10 +10,11 @@ numpy = "*"
 flask-cors = "*"
 sklearn = "*"
 joblib = "*"
-matplotlib = "*"
+matplotlib = "==3.2"
 shap = "*"
 scikit-learn = "*"
 ipython = "*"
+pyqt5 = "*"
 
 [dev-packages]
 
