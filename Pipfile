@@ -12,9 +12,10 @@ sklearn = "*"
 joblib = "*"
 matplotlib = "==3.2"
 shap = "*"
-scikit-learn = "*"
 ipython = "*"
 pyqt5 = "*"
+google-cloud-storage = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
