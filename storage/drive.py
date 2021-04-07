@@ -1,7 +1,7 @@
 from google.cloud import storage
 client = storage.Client()
 
-bucket = client.get_bucket('default-storage-comsats-fyp')
+bucket = client.get_bucket('images-storage-fyp-comsats')
 
 def upload_blob(name, file):
     """Uploads a file to the bucket."""
